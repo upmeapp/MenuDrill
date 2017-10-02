@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuDrill</string>
+    <string name="animTitle1">animate once</string>
+    <string name="animTitle2">animate Twice</string>
+    <string name="thetruth">prepend the truth is</string>
+    <string name="thatisit">append that\'s it!</string>
+    <string name="that">and that is it!!</string>
+</resources>
